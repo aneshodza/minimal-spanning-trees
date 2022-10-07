@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minimal-spanning-trees/static/css/main.dbcee0e8.chunk.css",
+    "main.js": "/minimal-spanning-trees/static/js/main.a9d1d90f.chunk.js",
+    "main.js.map": "/minimal-spanning-trees/static/js/main.a9d1d90f.chunk.js.map",
+    "runtime-main.js": "/minimal-spanning-trees/static/js/runtime-main.9e87c628.js",
+    "runtime-main.js.map": "/minimal-spanning-trees/static/js/runtime-main.9e87c628.js.map",
+    "static/css/2.cbedb215.chunk.css": "/minimal-spanning-trees/static/css/2.cbedb215.chunk.css",
+    "static/js/2.f8fb24ad.chunk.js": "/minimal-spanning-trees/static/js/2.f8fb24ad.chunk.js",
+    "static/js/2.f8fb24ad.chunk.js.map": "/minimal-spanning-trees/static/js/2.f8fb24ad.chunk.js.map",
+    "static/js/3.2ad715e3.chunk.js": "/minimal-spanning-trees/static/js/3.2ad715e3.chunk.js",
+    "static/js/3.2ad715e3.chunk.js.map": "/minimal-spanning-trees/static/js/3.2ad715e3.chunk.js.map",
+    "index.html": "/minimal-spanning-trees/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/minimal-spanning-trees/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.dbcee0e8.chunk.css.map": "/minimal-spanning-trees/static/css/main.dbcee0e8.chunk.css.map",
+    "static/js/2.f8fb24ad.chunk.js.LICENSE.txt": "/minimal-spanning-trees/static/js/2.f8fb24ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e87c628.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.f8fb24ad.chunk.js",
+    "static/css/main.dbcee0e8.chunk.css",
+    "static/js/main.a9d1d90f.chunk.js"
+  ]
+}
